@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 All answers are hard.
+=======
+
+>>>>>>> parent of f2a89f4 (commit changes to local repo)
